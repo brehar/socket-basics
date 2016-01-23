@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
-    "socket.io": "*"
+    "socket.io": "*",
+    "moment": "*"
   },
   "engines": {
-    "node": "4.1.1",
-    "moment": "*"
+    "node": "4.1.1"
   }
 }
